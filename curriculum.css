@@ -1,0 +1,112 @@
+#personname{
+
+    color: hsl(236, 82%, 46%);
+
+    font-family: font-family: Helvetica, Arial, sans-serif;r;
+
+    font-size: 25px;
+
+
+
+}
+
+.pimg{
+
+    width:20px;
+
+    height: 20px;
+
+}
+
+
+
+.ptext{
+
+    font-weight: bold;
+
+}
+
+.pspan{
+
+    margin-left: 40px;
+
+}
+
+#personimg1{
+
+     width: 120px;
+
+     height: 160px;
+
+     position: absolute;
+
+     top:20px;
+
+     right: 5px;
+
+}
+
+
+
+.subtitle-text{
+
+    font-size: 25px;
+
+    font-weight: bold;
+
+    margin-left: 10px;
+
+}
+
+
+
+hr{
+
+    size:15px;
+
+    color: rgb(19, 139, 219);
+
+    border-bottom:none;
+
+}
+
+
+
+.cla{
+
+    margin-bottom: 15px;
+
+}
+
+#school{
+
+    margin-left: 25%;
+
+}
+
+.middle{
+
+    margin-bottom: 3px;
+
+}
+
+
+
+.R{
+
+    float: right
+
+}
+
+
+
+.subtitle-img{
+
+    width:25px;
+
+    height: 25px;
+
+}
+
+
+
